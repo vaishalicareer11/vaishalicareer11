@@ -7,7 +7,7 @@
 
 **Languages and Tools we used:**
 
-
+<img src="images/html.png" width="70px" height="70px" alt="html logo">
 ![HTML](images/html.png) ![CSS3](https://www.freeiconspng.com/images/html5-icon) ![Javascript](https://www.freeiconspng.com/images/html5-icon) ![Bootstrap 4](https://www.freeiconspng.com/images/html5-icon) ![Jquery](https://www.freeiconspng.com/images/html5-icon)
 
 
