@@ -7,9 +7,7 @@
 
 **Languages and Tools we used:**
 
-<img src="images/html.png" width="70px" height="70px" alt="html logo">
-![HTML](images/html.png) ![CSS3](https://www.freeiconspng.com/images/html5-icon) ![Javascript](https://www.freeiconspng.com/images/html5-icon) ![Bootstrap 4](https://www.freeiconspng.com/images/html5-icon) ![Jquery](https://www.freeiconspng.com/images/html5-icon)
-
+<img src="images/html.png" width="70px" height="70px" alt="html-logo"> <img src="images/css.png" width="50px" height="70px" alt="css-logo"> <img src="images/bootstrap.png" width="70px" height="70px" alt="bootstrap-ogo"> <img src="images/js.png" width="70px" height="70px" alt="js-logo"> <img src="images/jquery.png" width="70px" height="70px" alt="jquery-logo">
 
 :book: I'm always trying to grow and learn something new. Now, I'm currently learning Full Stack Development with NodeJs.
 
